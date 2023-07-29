@@ -1,10 +1,5 @@
 package com.abdalllahyascer.fota
 
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Home
-import androidx.compose.material.icons.filled.Info
-import androidx.compose.material.icons.filled.Settings
-import androidx.compose.ui.res.painterResource
 import androidx.lifecycle.ViewModel
 
 class HomeViewModel :ViewModel() {

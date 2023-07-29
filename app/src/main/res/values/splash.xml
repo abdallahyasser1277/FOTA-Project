@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FOTA.splash.screen" parent="Theme.SplashScreen" >
+        <item name="windowSplashScreenBackground">#F4F5FF</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_screen</item>
+        <item name="postSplashScreenTheme">@style/Theme.FOTA</item>
+
+    </style>
+</resources>
